@@ -11,6 +11,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Awesome Polars](#awesome-polars)
   - [DataFrame Libraries](#dataframe-libraries)
   - [Polars Wrappers](#polars-wrappers)
+  - [Shells](#Shells)
 - [Resources](#resources)
   - [Cookbooks](#cookbooks)
 
@@ -22,6 +23,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [tidypolars](https://github.com/markfairbanks/tidypolars) - Tidy interface to Polars.
 
+## Shells
+
+- [Nushell](https://github.com/nushell/nushell) - A new type of shell.
 
 # Resources
 
