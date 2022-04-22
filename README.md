@@ -2,9 +2,11 @@
 
 # Awesome Polars [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-**Disclaimer**: This repository has not yet been submitted to `awesome`. We want this repo to marinate before submitting it. If you have an awesome project you'd like to add to this list check out our [CONTRIBUTING.md](/CONTRIBUTING.md).
+*A carefully curated list of `polars` projects and resources.*
 
-A curated list of `polars` projects and resources.
+[Polars](https://github.com/pola-rs/polars) is a blazingly fast `DataFrame` library implemented in Rust using the [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html).
+
+If you have an *awesome* project you'd like to add to this list check out our [CONTRIBUTING.md](/CONTRIBUTING.md).
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
