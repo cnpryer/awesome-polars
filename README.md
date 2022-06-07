@@ -11,6 +11,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Awesome Polars](#awesome-polars)
   - [DataFrame Libraries](#dataframe-libraries)
   - [Polars Wrappers](#polars-wrappers)
+  - [Polars Extensions](#polars-extensions)
   - [Shells](#Shells)
 - [Resources](#resources)
   - [Cookbooks](#cookbooks)
@@ -22,6 +23,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Polars Wrappers
 
 - [tidypolars](https://github.com/markfairbanks/tidypolars) - Tidy interface to Polars.
+
+## Polars Extensions
+
+- [geopolars](https://github.com/kylebarron/geopolars) - Geospatial extensions for Polars.
 
 ## Shells
 
