@@ -13,7 +13,7 @@ If you have an *awesome* project you'd like to add to this list check out our [C
   - [Polars Wrappers](#polars-wrappers)
   - [Shells](#Shells)
 - [Resources](#resources)
-  - [Cookbooks](#cookbooks)
+  - [User Guides](#user-guides)
 
 ## DataFrame Libraries
 
@@ -31,9 +31,9 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 
 Resources for more about `polars`.
 
-## Cookbooks
+## User Guides
 
-- [Official Polars Cookbook](https://pola-rs.github.io/polars-book/user-guide/)
+- [Official Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/)
 
 # Contributing
 
