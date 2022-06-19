@@ -12,7 +12,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   - [DataFrame Libraries](#dataframe-libraries)
   - [Polars Wrappers](#polars-wrappers)
 - [Resources](#resources)
-  - [Cookbooks](#cookbooks)
+  - [User Guides](#user-guides)
 
 ## DataFrame Libraries
 
@@ -27,9 +27,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 Resources for more about `polars`.
 
-## Cookbooks
+## User Guides
 
-- [Official Polars Cookbook](https://pola-rs.github.io/polars-book/user-guide/)
+- [Official Polars User Guide](https://pola-rs.github.io/polars-book/user-guide/)
 
 # Contributing
 
