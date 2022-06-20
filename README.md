@@ -12,6 +12,7 @@ If you have an *awesome* project you'd like to add to this list check out our [C
   - [DataFrame Libraries](#dataframe-libraries)
   - [Polars Wrappers](#polars-wrappers)
   - [Shells](#Shells)
+  - [Data Tools](#data-tools)
 - [Resources](#resources)
   - [User Guides](#user-guides)
 
@@ -26,6 +27,10 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 ## Shells
 
 - [Nushell](https://github.com/nushell/nushell) - A new type of shell.
+
+## Data Tools
+
+- [patito](https://github.com/kolonialno/patito) - A data modelling layer built on top of `polars` and `pydantic`.
 
 # Resources
 
