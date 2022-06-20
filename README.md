@@ -22,7 +22,7 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 
 ## Data Tools
 
-- [patito](https://github.com/kolonialno/patito) - A data modelling layer built on top of `polars` and `pydantic`.
+- [patito](https://github.com/kolonialno/patito) - A data modeling layer built on top of `polars` and `pydantic`.
 
 ## Polars Wrappers
 
