@@ -10,15 +10,19 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 
 - [Awesome Polars](#awesome-polars)
   - [DataFrame Libraries](#dataframe-libraries)
+  - [Data Tools](#data-tools)
   - [Polars Wrappers](#polars-wrappers)
   - [Shells](#Shells)
-  - [Data Tools](#data-tools)
 - [Resources](#resources)
   - [User Guides](#user-guides)
 
 ## DataFrame Libraries
 
 - [Explorer](https://github.com/elixir-nx/explorer) - DataFrames for Elixir.
+
+## Data Tools
+
+- [patito](https://github.com/kolonialno/patito) - A data modelling layer built on top of `polars` and `pydantic`.
 
 ## Polars Wrappers
 
@@ -27,10 +31,6 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 ## Shells
 
 - [Nushell](https://github.com/nushell/nushell) - A new type of shell.
-
-## Data Tools
-
-- [patito](https://github.com/kolonialno/patito) - A data modelling layer built on top of `polars` and `pydantic`.
 
 # Resources
 
