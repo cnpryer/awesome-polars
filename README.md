@@ -2,9 +2,9 @@
 
 # Awesome Polars [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> *A carefully curated list of `polars` projects and resources.*
+> *A carefully curated list of Polars projects and resources.*
 
-[Polars](https://github.com/pola-rs/polars) is a blazingly fast `DataFrame` library implemented in Rust using the [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html).
+[Polars](https://github.com/pola-rs/polars) is a blazingly fast DataFrame library implemented in Rust using the [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html).
 
 If you have an *awesome* project you'd like to add to this list check out our [CONTRIBUTING.md](/CONTRIBUTING.md).
 
@@ -23,7 +23,7 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 
 ## Data Tools
 
-- [patito](https://github.com/kolonialno/patito) - A data modeling layer built on top of `polars` and `pydantic`.
+- [patito](https://github.com/kolonialno/patito) - A data modeling layer built on top of Polars and Pydantic.
 
 ## Polars Extensions
 
@@ -40,7 +40,7 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 
 # Resources
 
-Resources for more about `polars`.
+Resources for more about Polars.
 
 ## User Guides
 
