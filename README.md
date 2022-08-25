@@ -8,11 +8,12 @@
 
 If you have an *awesome* project you'd like to add to this list check out our [CONTRIBUTING.md](/CONTRIBUTING.md).
 
-- [Awesome Polars](#awesome-polars)
-  - [DataFrame Libraries](#dataframe-libraries)
-  - [Data Tools](#data-tools)
-  - [Polars Wrappers](#polars-wrappers)
-  - [Shells](#Shells)
+## Contents
+- [DataFrame Libraries](#dataframe-libraries)
+- [Data Tools](#data-tools)
+- [Polars Extensions](#polars-extensions)
+- [Polars Wrappers](#polars-wrappers)
+- [Shells](#shells)
 - [Resources](#resources)
   - [User Guides](#user-guides)
 
