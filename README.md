@@ -24,6 +24,10 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 
 - [patito](https://github.com/kolonialno/patito) - A data modeling layer built on top of `polars` and `pydantic`.
 
+## Polars Extensions
+
+- [polars-mongo](https://github.com/universalmind303/polars-mongo) - Extension to read from mongodb collections via the LazyFrame apis.
+
 ## Polars Wrappers
 
 - [tidypolars](https://github.com/markfairbanks/tidypolars) - Tidy interface to Polars.
