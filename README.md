@@ -26,6 +26,7 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 
 ## Polars Extensions
 
+- [geopolars](https://github.com/geopolars/geopolars) - Geospatial DataFrames for Rust and Python.
 - [polars-mongo](https://github.com/universalmind303/polars-mongo) - Extension to read from mongodb collections via the LazyFrame apis.
 
 ## Polars Wrappers
