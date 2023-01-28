@@ -11,6 +11,7 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 ## Contents
 - [DataFrame Libraries](#dataframe-libraries)
 - [Data Tools](#data-tools)
+- [Polars Bindings](#polars-bindings)
 - [Polars Extensions](#polars-extensions)
 - [Polars Wrappers](#polars-wrappers)
 - [Shells](#shells)
@@ -29,6 +30,11 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 
 - [geopolars](https://github.com/geopolars/geopolars) - Geospatial DataFrames for Rust and Python.
 - [polars-mongo](https://github.com/universalmind303/polars-mongo) - Extension to read from mongodb collections via the LazyFrame apis.
+
+## Polars Bindings
+
+- [r-polars](https://github.com/pola-rs/r-polars) - Bring polars to R.
+- [nodejs-polars](https://github.com/pola-rs/nodejs-polars) - NodeJS front-end of Polars.
 
 ## Polars Wrappers
 
