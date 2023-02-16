@@ -1,4 +1,4 @@
-![Awesome pandas logo](/img/polars-logo-dimmed.svg)
+[<img src="/img/polars-logo-dimmed.svg" align="right" width="300">](https://github.com/pola-rs/polars)
 
 # Awesome Polars [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
@@ -7,6 +7,8 @@
 [Polars](https://github.com/pola-rs/polars) is a blazingly fast DataFrame library implemented in Rust using the [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html).
 
 If you have an *awesome* project you'd like to add to this list check out our [CONTRIBUTING.md](/CONTRIBUTING.md).
+
+<br>
 
 ## Contents
 - [DataFrame Libraries](#dataframe-libraries)
