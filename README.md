@@ -1,4 +1,4 @@
-[<img src="/img/polars-logo-dimmed.svg" align="right" width="300">](https://github.com/pola-rs/polars)
+[![alt text](/img/polars-logo-dimmed.svg)]((https://github.com/pola-rs/polars))
 
 # Awesome Polars [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
