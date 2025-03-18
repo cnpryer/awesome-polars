@@ -4,7 +4,7 @@
 
 > *A carefully curated list of Polars projects and resources.*
 
-[Polars](https://github.com/pola-rs/polars) is a blazingly fast DataFrame library implemented in Rust using the [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html).
+[Polars](https://github.com/pola-rs/polars) is a fast DataFrame library implemented in Rust using the [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html).
 
 If you have an *awesome* project you'd like to add to this list check out our [CONTRIBUTING.md](/CONTRIBUTING.md).
 
@@ -23,6 +23,7 @@ If you have an *awesome* project you'd like to add to this list check out our [C
 ## DataFrame Libraries
 
 - [Explorer](https://github.com/elixir-nx/explorer) - DataFrames for Elixir.
+- [ruby-polars](https://github.com/ankane/ruby-polars) - Fast DataFrames for Ruby.
 
 ## Data Tools
 
